@@ -1,2 +1,2 @@
 # new-html-folder
-This is an HTML folder for HTML basics
+HTML Folder created for YouTube Channel on HTML Basics.
